@@ -36,6 +36,12 @@ This query identify categories that are leading in purchases in the company by s
 This query identifies average ratings across the different categories of products sold by the company by averaging the the ratings for each category. Overall, D2C's ratings range from 3.7 to 4.1 out of a max rating of 5. 
 
 ### Driving Factor for Returns
+<img width="2218" height="1402" alt="image" src="https://github.com/user-attachments/assets/f5c57c41-a617-4d49-9164-ef8aa963ae32" />
+
+<img width="544" height="392" alt="image" src="https://github.com/user-attachments/assets/30ad1307-f24b-48a5-afae-7ab9d0b4f694" />
+
+
+This query and matplotlib identify and visualize the return reasons and amount of returns made for each product as well as identifying the most common return reasons. The two most common reason of returns have to do with skin irritation and shipping complications including late deliveries (16) and damaged packaing (13) and the wrong item recieved. The total count for these summed return reason involving shipping is 29 followed by skin irritation with 28 returns. 
 
 ### Customers
 
