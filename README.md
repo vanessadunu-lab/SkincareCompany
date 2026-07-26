@@ -27,6 +27,13 @@ Files used:
 ### Most and Least Purchased Products
 ![Units Purchased By Category] (images/units_purchased_by_category.png)
 
+### Driving Factor for Returns
+
+### Customers
+
+### Regions and Acquisition Channels Driving Customers
+
+### Revenue 
 ## Dashboard
 
 ## Key Findings
