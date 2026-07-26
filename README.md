@@ -25,8 +25,16 @@ Files used:
 
 ## SQL Analysis
 ### Most and Least Purchased Products
-![Units Purchased By Category](images/units_purchased_by_category.png)
-units_purchased_by_category.png 
+
+<img width="470" height="432" alt="image" src="https://github.com/user-attachments/assets/b87467e6-7d3b-471f-a0fa-e2820d1bb6c7" />
+
+This query identify categories that are leading in purchases in the company by summming units purchased across the different categories (serums, moisturizers, sunscreen, etc). When it come to skincare category, serums (919 units) are contributing the most to sales followed by moisturizers (443 units) and sunscreen (314).
+
+### Most and Least Rated Products
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/424eec92-0d12-4f1c-908a-324cf077d0df" />
+
+This query identifies average ratings across the different categories of products sold by the company by averaging the the ratings for each category. Overall, D2C's ratings range from 3.7 to 4.1 out of a max rating of 5. 
+
 ### Driving Factor for Returns
 
 ### Customers
