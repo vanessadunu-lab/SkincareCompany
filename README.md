@@ -26,7 +26,7 @@ Files used:
 ## SQL Analysis
 ### Most and Least Purchased Products
 ![Units Purchased By Category](images/units_purchased_by_category.png)
-
+units_purchased_by_category.png 
 ### Driving Factor for Returns
 
 ### Customers
