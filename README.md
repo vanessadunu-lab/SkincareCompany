@@ -50,6 +50,8 @@ This query and matplotlib identify and visualize the return reasons and amount o
 ### Revenue 
 ## Dashboard
 
+https://public.tableau.com/views/SkincareWorkbook3/SkincareCompany?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Key Findings
 
 ## Recommendations
