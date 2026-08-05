@@ -46,11 +46,11 @@ This query and matplotlib identify and visualize the return reasons and amount o
 
 ### Revenue 
 
-<img width="864" height="826" alt="image" src="https://github.com/user-attachments/assets/b53544f3-0ae8-473a-9748-784797013169" />
+<img width="664" height="626" alt="image" src="https://github.com/user-attachments/assets/b53544f3-0ae8-473a-9748-784797013169" />
 
 This query identifies the revenue made by each category by summing quantity of products purchased and grouping by the categories in the product. The serum category is leading in first (540249.75 rupees) followed by moisturizers (1555518.60 rupees) and sunscreens (129390 rupees).
 
-<img width="488" height="812" alt="image" src="https://github.com/user-attachments/assets/f1a600a2-14df-4a4d-8b9d-b68d0b36d7ab" />
+<img width="288" height="612" alt="image" src="https://github.com/user-attachments/assets/f1a600a2-14df-4a4d-8b9d-b68d0b36d7ab" />
 
 This query identifies the amount purchased and total price across all discount levels (0, 5, 10, 15, 20, 25) through grouping discount percentages. The three discount percentages with the most purchased and most revenue was 5% (642 units purchased and revenue of 307000.1 rupees) followed by 10% (595 units purchased and revenue of 273694.5) and 0% (487 units purchased and 241113 rupees). This shows that there were more items purchased at the 5% and 10% discount compared to the original price of the products.
 
