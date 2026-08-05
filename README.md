@@ -1,5 +1,6 @@
 # SkincareCompany
 This project uses the D2C Skincare E-commerce Analytics dataset from Kaggle. The data analysis explores a skincare e-commerce synthetic dataset with multiple data tables to inform business decisions.
+- Tableau Public Dashboard: https://public.tableau.com/views/SkincareWorkbook3/SkincareCompany?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Files used:
 - orders.csv
@@ -43,27 +44,15 @@ This query identifies average ratings across the different categories of product
 
 This query and matplotlib identify and visualize the return reasons and amount of returns made for each product as well as identifying the most common return reasons. The two most common reason of returns have to do with skin irritation and shipping complications including late deliveries (16) and damaged packaing (13) and the wrong item recieved. The total count for these summed return reason involving shipping is 29 followed by skin irritation with 28 returns. 
 
-### Customers
-
-<img width="686" height="474" alt="image" src="https://github.com/user-attachments/assets/b4cf723b-52cc-4aee-94e3-9884cc1bb5b6" />
-
-<img width="656" height="574" alt="image" src="https://github.com/user-attachments/assets/99cabdc9-b518-407a-8b12-0608b320934d" />
-
-
-
-### Regions and Acquisition Channels Driving Customers
-
-<img width="656" height="574" alt="image" src="https://github.com/user-attachments/assets/99cabdc9-b518-407a-8b12-0608b320934d" />
-
-<img width="650" height="478" alt="image" src="https://github.com/user-attachments/assets/52c77705-17fa-415f-af34-57cb5250020e" />
-
-
 ### Revenue 
 
 <img width="1264" height="1226" alt="image" src="https://github.com/user-attachments/assets/b53544f3-0ae8-473a-9748-784797013169" />
 
+This query identifies the revenue made by each category by summing quantity of products purchased and grouping by the categories in the product. The serum category is leading in first (540249.75 rupees) followed by moisturizers (1555518.60 rupees) and sunscreens (129390 rupees).
+
 <img width="888" height="1212" alt="image" src="https://github.com/user-attachments/assets/f1a600a2-14df-4a4d-8b9d-b68d0b36d7ab" />
 
+This query identifies the amount purchased and total price across all discount levels (0, 5, 10, 15, 20, 25) through grouping discount percentages. The three discount percentages with the most purchased and most revenue was 5% (642 units purchased and revenue of 307000.1 rupees) followed by 10% (595 units purchased and revenue of 273694.5) and 0% (487 units purchased and 241113 rupees). This shows that there were more items purchased at the 5% and 10% discount compared to the original price of the products.
 
 ## Dashboard
 <img width="1998" height="1598" alt="image" src="https://github.com/user-attachments/assets/5db93138-6253-4b6b-a8b9-161293a46d3a" />
@@ -75,7 +64,7 @@ https://public.tableau.com/views/SkincareWorkbook3/SkincareCompany?:language=en-
 * MOST/LEAST PURCHASED: The most purchased category of skincare products were serums (919 units purchased) followed by moisturizers (443 units purchased), and sunscreen (314 units purchased). The least purchased category is the toners (80 units purchased) followed by lip care (82 units purchased). 
 * RATINGS: The two products with the highest rating are: Vitamin B5 moisturizer (4.5) and PHA 3% Alcohol-free toner (4.43). The two products with the lowest rating are: Body Wash with Salicylic Acid (3.25) and Anti-Dandruff Shampoo for dandruff control (3.28).¶
 * RETURNS: The two most common reason of returns have to do with skin irritation and shipping complications including late deliveries (16) and damaged packaging (13) and the wrong item received. The total count for these summed return reason involving shipping is 29 followed by skin irritation with 28 returns.
-* CUSTOMERS: Maharashtra, Gujarat, and Madhya Pradesh are the top leading states when it comes to driving clientele. This could inform how acquisition channels are distributed towards different states in order to increase clientele.
 * MONEY: 5% AND 10% discounts brought in the most revenue compared to the original pricing or higher discounts like 20% and 25%. Prioritizing 5% and 10% discounts over larger discounts initially may help to increase revenue from the products. Based on category and including discounts also helping to drive purchases, serums are leading with 919 units purchased and 540249.75, moisturizers with and 443 units purchased and 155518.60, and sunscreen with 129390.00 rupees. The 5% discounts brought in 307000.1 rupees leading in purchases and revenue followed by 10% with 595 units purchased and revenue of 273694.5 rupees, and 0% with 487 units purchased and 241113 rupees in revenue.
 
 ## Recommendations
+* 
