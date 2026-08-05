@@ -37,7 +37,7 @@ This query identify categories that are leading in purchases in the company by s
 This query identifies average ratings across the different categories of products sold by the company by averaging the the ratings for each category. Overall, D2C's ratings range from 3.7 to 4.1 out of a max rating of 5. 
 
 ### Driving Factor for Returns
-<img width="2218" height="1402" alt="image" src="https://github.com/user-attachments/assets/f5c57c41-a617-4d49-9164-ef8aa963ae32" />
+<img width="2670" height="1358" alt="image" src="https://github.com/user-attachments/assets/1602af87-32ee-4626-974e-a073d4ca4566" />
 
 <img width="544" height="392" alt="image" src="https://github.com/user-attachments/assets/30ad1307-f24b-48a5-afae-7ab9d0b4f694" />
 
