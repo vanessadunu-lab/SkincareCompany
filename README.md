@@ -45,9 +45,26 @@ This query and matplotlib identify and visualize the return reasons and amount o
 
 ### Customers
 
+<img width="686" height="474" alt="image" src="https://github.com/user-attachments/assets/b4cf723b-52cc-4aee-94e3-9884cc1bb5b6" />
+
+<img width="656" height="574" alt="image" src="https://github.com/user-attachments/assets/99cabdc9-b518-407a-8b12-0608b320934d" />
+
+
+
 ### Regions and Acquisition Channels Driving Customers
 
+<img width="656" height="574" alt="image" src="https://github.com/user-attachments/assets/99cabdc9-b518-407a-8b12-0608b320934d" />
+
+<img width="650" height="478" alt="image" src="https://github.com/user-attachments/assets/52c77705-17fa-415f-af34-57cb5250020e" />
+
+
 ### Revenue 
+
+<img width="1264" height="1226" alt="image" src="https://github.com/user-attachments/assets/b53544f3-0ae8-473a-9748-784797013169" />
+
+<img width="888" height="1212" alt="image" src="https://github.com/user-attachments/assets/f1a600a2-14df-4a4d-8b9d-b68d0b36d7ab" />
+
+
 ## Dashboard
 <img width="1998" height="1598" alt="image" src="https://github.com/user-attachments/assets/5db93138-6253-4b6b-a8b9-161293a46d3a" />
 
