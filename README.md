@@ -63,11 +63,14 @@ https://public.tableau.com/views/SkincareWorkbook3/SkincareCompany?:language=en-
 
 * MOST/LEAST PURCHASED: The most purchased category of skincare products were serums (919 units purchased) followed by moisturizers (443 units purchased), and sunscreen (314 units purchased). The least purchased category is the toners (80 units purchased) followed by lip care (82 units purchased).
 
-* RATINGS: The two products with the highest rating are: Vitamin B5 moisturizer (4.5) and PHA 3% Alcohol-free toner (4.43). The two products with the lowest rating are: Body Wash with Salicylic Acid (3.25) and Anti-Dandruff Shampoo for dandruff control (3.28).¶
+* RATINGS: The two products with the highest rating are: Vitamin B5 moisturizer (4.5) and PHA 3% Alcohol-free toner (4.43). The two products with the lowest rating are: Body Wash with Salicylic Acid (3.25) and Anti-Dandruff Shampoo for dandruff control (3.28).
   
 * RETURNS: The two most common reason of returns have to do with skin irritation and shipping complications including late deliveries (16) and damaged packaging (13) and the wrong item received. The total count for these summed return reason involving shipping is 29 followed by skin irritation with 28 returns.
   
 * MONEY: 5% AND 10% discounts brought in the most revenue compared to the original pricing or higher discounts like 20% and 25%. Prioritizing 5% and 10% discounts over larger discounts initially may help to increase revenue from the products. Based on category and including discounts also helping to drive purchases, serums are leading with 919 units purchased and 540249.75, moisturizers with and 443 units purchased and 155518.60, and sunscreen with 129390.00 rupees. The 5% discounts brought in 307000.1 rupees leading in purchases and revenue followed by 10% with 595 units purchased and revenue of 273694.5 rupees, and 0% with 487 units purchased and 241113 rupees in revenue.
 
 ## Recommendations
-* 
+* Leading Product: Serums are the strongest-performing category, so expanding or prioritizing that line is worth investigating.
+* Product quality: Skin irritation is a common return reason, especially for the serums, suggesting an opportunity to review formulations or product descriptions.
+* Operations: Delivery delays and damaged products point toward logistics and packaging improvements. These concerns together lead second in return reasons making it something worth improving. 
+* Pricing: Orders with 5–10% discounts outperformed 20–25% discounts, suggesting the company should evaluate whether smaller discounts can maintain demand while preserving revenue 
